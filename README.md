@@ -31,30 +31,31 @@ The project focuses on applying programming concepts such as event handling, col
 
 ```text
 browser-2d-game-javascript/
-├── index.html
-├── sketch.js
-├── libraries/
-│   ├── p5.min.js
-│   ├── p5.sound.min.js
-│   └── matter.js
+├── GP Project/
+│   ├── index.html
+│   ├── sketch.js
+│   └── libraries/
+│       ├── p5.min.js
+│       ├── p5.sound.min.js
+│       └── matter.js
 └── README.md
 ```
 
 ## File Description
 
-- `index.html`  
+- `GP Project/index.html`  
   Loads the game files and required JavaScript libraries.
 
-- `sketch.js`  
+- `GP Project/sketch.js`  
   Contains the main game logic, drawing functions, user interaction, object movement, and collision handling.
 
-- `libraries/`  
+- `GP Project/libraries/`  
   Contains the p5.js, p5.sound, and Matter.js libraries required to run the project.
 
 ## How to Run
 
 1. Download or clone this repository.
-2. Open the project folder.
+2. Open the `GP Project` folder.
 3. Double click `index.html`.
 4. The game will run directly in the web browser.
 
